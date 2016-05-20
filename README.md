@@ -1,6 +1,7 @@
 # validations
-Validasyonlar
-CSharp 
-T.C. Kimlik No Kontrolü
-Vergi Numarası Kontrolü
+Validasyonlar <br/>
+<h1>CSharp</h1></br/>
+<b>T.C. Kimlik No Kontrolü</b> 
+<br/>
+<b>Vergi Numarası Kontrolü</b>
 
